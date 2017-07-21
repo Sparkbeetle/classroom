@@ -1,4 +1,16 @@
-#################### ####################
+#################### #################### #################### ####################
+-The Knowledge Dimension-
+
+                Remember	Understand	    Apply	    Analyze	        Evaluate	Create
+Facts	        list	    para-phrase	    classify	outline	        rank	    categorize
+Concepts	    recall	    explains	    show	    contrast	    criticize	modify
+Processes	    outline	    estimate	    produce	    diagram	        defend	    design
+Procedures	    reproduce	give-an-example	relate	    identify	    critique	plan
+Principles	    state	    converts	    solve	    differentiates	conclude	revise
+Meta-cognitive	proper-use	interpret	    discover	infer	        predict	    actualize
+
+http://www.nwlink.com/~donclark/hrd/bloom.html
+#################### #################### #################### ####################
 #1. Start up MonoDevelop, click New... just below the Solutions heading, and click on the .NET
 category in the Other section in the pane on the left. Click the Console Project icon in the
 Templates pane and click Next. Change the Project Name to whatever name you want to call the
@@ -16,9 +28,6 @@ File -> New -> Solution -> C# -> Console Project
 3-<Analyzing>
 2-<Evaluating>
 1-Applying
-
-http://www.nwlink.com/~donclark/hrd/bloom.html
-http://www.nwlink.com/~donclark/hrd/learning/id/bloom_taxonomy.jpg
 
 #4. 
 
