@@ -1,0 +1,24 @@
+#################### ####################
+#1. Start up MonoDevelop, click New... just below the Solutions heading, and click on the .NET
+category in the Other section in the pane on the left. Click the Console Project icon in the
+Templates pane and click Next. Change the Project Name to whatever name you want to call the
+project, set the location where you'd like the project to be saved, and click Create.
+
+File -> New -> Solution -> C# -> Console Project 
+
+#2. Install Microsoft XNA
+    Install Monogame
+    
+#3. Bloom’s Taxonomy
+6-Remembering
+5-Understanding
+4-Applying
+3-<Analyzing>
+2-<Evaluating>
+1-Applying
+
+http://www.nwlink.com/~donclark/hrd/bloom.html
+http://www.nwlink.com/~donclark/hrd/learning/id/bloom_taxonomy.jpg
+
+#4. 
+
